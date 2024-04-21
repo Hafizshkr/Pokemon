@@ -22,3 +22,6 @@ Public API
 
 ![Pokemon Project](https://github.com/Hafizshkr/Pokemon/assets/103745630/eee92dba-1894-417f-b76c-24b40cd6422c)
 
+## Demo
+
+https://pokemon-pokedex-beige.vercel.app/
